@@ -19,7 +19,7 @@
 
 There are two parts of the project, one is a desktop-based application and the other is an excel file containing the user details and whatsapp mobile number. This application will send videos and photos to the user with a custom message.
 
-The operator will add a message (If the operator wants to insert a customer name within the message, [user] can be specified.), an Excel file path, an image path (semicolon seprated if more than one), a video path (semicolon seprated if more than one), and a mobile number from which the operator wants to send a message after adding the information, by clicking the Start button, the custom message sending process will be start. The log can be seen at the bottom of the UI window. Operator can stop the process by pressing the stop button at anytime
+The operator will add a message ([name] will be replaced by the name column from excel file as customized message), an Excel file path, an image path (semicolon seprated if more than one), a video path (semicolon seprated if more than one), and a mobile number from which the operator wants to send a message after adding the information, by clicking the Start button, the custom message sending process will be start. The log can be seen at the bottom of the UI window. Operator can stop the process by pressing the stop button at anytime
 
 
 
