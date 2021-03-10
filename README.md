@@ -24,8 +24,6 @@ The operator will add a message ([name] will be replaced by the name column from
 
 (First time user have to scan the QR code for logIn to whatsapp web. After that the process will be started.The login session will be saved for later use.)
 
-
-
 #### Technologies
 
 - JAVA
