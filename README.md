@@ -41,8 +41,6 @@ You need to have Java and Chrom pre-installed on your PC to install this program
 [Back To The Top](#learning-selenium-with-java-8)
 
 ---
-
-
 ## License
 
 MIT License
